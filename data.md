@@ -1,0 +1,1 @@
+https://docs.allauth.org/en/latest/introduction/index.html
